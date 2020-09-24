@@ -1,0 +1,105 @@
+.prew-t-img{
+    font-family: "Calibri";
+    font-size: 20px;
+    color: #fff;
+}
+.prew-t{
+    border-spacing: 0px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: #383838;
+    color: #fefefe;
+    width: calc(100vw - 40px);
+    margin: 20px auto;
+}
+html{
+    background-color: #000;
+}
+.prew-t-img-text{
+    height: 100px;
+    width: 100%;
+    font-family: "Calibri";
+    font-size: 55px;
+    font-weight: 600;
+    padding: 0px 0px 30px 0px;
+    border-spacing: 0px 0px;
+}
+.prew-t-img img{
+    display: block;
+    max-width: calc(100% + 1px);
+    margin-bottom: -130px;
+}
+.prew-t-img-text tr td{
+    padding: 0px 30px;
+    line-height: 0.5;
+    height: 50px;
+}
+.prew-t-text{
+    font-family: "Calibri Light";
+    font-size: 25px;
+    padding: 5px;
+}
+.prew-t-texts{
+    color: #fefefe;
+    margin: 20px;
+}
+.content-block{
+    color: #fff;
+    font-family: "Calibri Light";
+    margin: -5px 15px 0px 15px;
+    border-spacing: 0px 15px;
+    font-size: 20px;
+}
+.ul-header{
+    color: #fff;
+    margin: 0px 15px;
+    font-family: "Calibri Light";
+    font-weight: 600;
+    font-size: 22px;
+}
+.ul-span tr td{
+    color: white;
+    font-family: "Calibri Light";
+    font-size: 20px;
+    border-bottom: 1px solid white;
+    float: left;
+    padding-left: px;
+}
+.ul-span tr td:before{
+    content: "•";
+    margin-right: 0px;
+    position: absolute;
+    margin-left: -12px;
+}
+
+.ul-span{
+    display: block;
+    margin: 0px 10px 35px 22px;
+    color: #fff;
+}
+.footer{
+    border-spacing: 0px;
+    border-radius: 25px;
+    overflow: hidden;
+    background-color: #383838;
+    color: #fefefe;
+    width: calc(100vw - 40px);
+    margin: 20px auto 30px auto;
+}
+.footer-img img{
+    margin: 15px auto;
+    display: block;
+}
+.footer-fst{
+    font-family: "Calibri";
+    text-align: center;
+    padding: 5px 0px;
+    font-weight: 900;
+    font-size: 25px;
+}
+.footer-scd{
+    font-family: "Calibri";
+    text-align: center;
+    padding: 5px 0px 25px 0px;
+    font-size: 25px;
+}
